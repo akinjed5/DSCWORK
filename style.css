@@ -18,5 +18,5 @@ body {
   margin: auto;
 }
 h2{text-align: center;}
-.container{margin: auto;}
-#links{margin-left: auto;}
+.container{text-align: center;}
+#links{margin-left: 40vw;}
