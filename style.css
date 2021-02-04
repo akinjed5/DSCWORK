@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+#main-nav {
+  height: 10vh;
+  width: 90vw;
+  margin: auto;
+  background-color: gray;
+  border-radius: 10px;
+}
+.side-nav {
+  height: 8vh;
+  width: 10vw;
+  margin-left: vw;
+}
+.carousel {
+  max-width: 80vw;
+  margin: auto;
+}
+h2{text-align: center;}
+.container{margin: auto;}
+#links{margin-left: auto;}
